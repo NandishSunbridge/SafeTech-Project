@@ -10,14 +10,7 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [
-    {
-      "id": "777043ed-75a5-477e-96aa-dfc8927d4b7b",
-    "name": "STG Project 1",
-    "publisher": "Sunbridge Publisher",
-    "version": "1.0.0.0"
-    }
-  ],
+  "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "23.0.0.0",

@@ -6,15 +6,15 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "DEV_STG53",
+            "environmentName": "QA_STG53",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "tenant": "4b5c5f46-93fc-4f9d-92c3-7c8a7d9a71dc"
-            //"schemaUpdateMode": "ForceSync"
+            "tenant": "4b5c5f46-93fc-4f9d-92c3-7c8a7d9a71dc",
+            "schemaUpdateMode": "ForceSync"
         }
     ]
 }
